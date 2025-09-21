@@ -12,7 +12,7 @@ Factors influencing sleep quality among university students and strategies to ta
 大学生睡眠质量影响因素及对策分析。
 
 > ***Relevant course***
-> * Quantitative Reasoning 2023 (2023年同济大学数据量化推理)
+> * Quantitative Reasoning 2023 (2023 年同济大学数据量化推理)
 
 ## 仓库组成
 
