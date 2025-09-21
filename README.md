@@ -16,17 +16,17 @@ Factors influencing sleep quality among university students and strategies to ta
 
 ## 仓库组成
 
-* `Cleaned_Data.csv`
+* [Cleaned Data](Cleaned_Data.csv)
 清洗数据
 
-* `Discussion_on_Model_Precision.pptx`
+* [Discussion on Model Precision](Discussion_on_Model_Precision.pptx)
 关于模型精细度的讨论
 
-* `Presentation.pptx`
+* [Presentation](Presentation.pptx)
 大学生睡眠质量影响因素及对策分析汇报
 
-* `Raw_Data.csv`
+* [Raw Data](Raw_Data.csv)
 原始数据
 
-* `Report.pdf`
+* [Report](Report.pdf)
 大学生睡眠质量影响因素及对策分析报告
